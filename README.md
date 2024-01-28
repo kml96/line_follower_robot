@@ -1,7 +1,7 @@
 # line_follower_robot
 A simple IR based line following robot
 
-# Components used
+## Components used
 * Arduino uno x 1
 * IR sensor x 2
 * L298N Motor driver x 1
